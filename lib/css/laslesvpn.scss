@@ -471,9 +471,10 @@ button.slick-prev.slick-arrow {
   right: 230px;
   background: #ffff;
   border-radius: 50%;
-  padding: 20px;
+  padding: 18px;
   color: #f53838;
   border: 2px solid #f53838;
+  font-size: 20px;
   &:hover {
     background: #f53838;
     color: #fff;
@@ -485,9 +486,10 @@ button.slick-next.slick-arrow {
   right: 150px;
   background: #ffff;
   border-radius: 50%;
-  padding: 20px;
+  padding: 18px;
   color: #f53838;
   border: 2px solid #f53838;
+  font-size: 20px;
   &:hover {
     background: #f53838;
     color: #fff;
